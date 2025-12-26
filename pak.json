@@ -1,0 +1,15 @@
+{
+  "name": "3DO",
+  "version": "v1.0.0",
+  "type": "EMU",
+  "description": "A 3DO addon for minarch, utilizing the Opera core.",
+  "author": "Dominick Vaccaro",
+  "repo_url": "https://github.com/dominickvaccaro/nextui-opera-3do",
+  "release_filename": "3DO.pak.zip",
+  "changelog": {
+    "v1.0.0": "Initial Release."
+  },
+  "platforms": [
+    "tg5040"
+  ]
+}
